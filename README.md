@@ -7,7 +7,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Ollama](https://img.shields.io/badge/Ollama-llama3.2:3b-black.svg?logo=ollama&logoColor=white)](https://ollama.com)
 
-**ChronoDev AI** is a temporal product-record knowledge platform and evidence-grounded AI assistant built for the **Apache Axis2** ecosystem. It traces software evolution across 32,500+ dated milestones, extracts canonical feature identities, cross-links multi-model knowledge graphs, and performs strict evidence-grounded Q&A via local Ollama models.
+**ChronoDev AI** is a temporal product-record knowledge platform and evidence-grounded AI assistant built for the **Apache Axis2** ecosystem. It traces software evolution across 32,500+ dated milestones, extracts canonical feature identities, cross-links multi-model knowledge graphs, and performs strict evidence-grounded Q&A via local Ollama models .
 
 ----
 
